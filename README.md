@@ -15,6 +15,7 @@
 - 5단계 뼈대 먼저 이어 보기: [docs/05-skeleton/skeleton.md](docs/05-skeleton/skeleton.md)
 - 6단계 하나씩 만들고 확인하기: [docs/06-build/build.md](docs/06-build/build.md)
 - 7단계 실제로 써 보고 재 보기: [docs/07-measure/measure.md](docs/07-measure/measure.md)
+- 8단계 돌아보고 배운 것 남기기: [docs/08-retro/retro.md](docs/08-retro/retro.md)
 - 단계 폴더 목차: [docs/README.md](docs/README.md)
 <!-- floe:end -->
 

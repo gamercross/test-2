@@ -15,5 +15,5 @@ Floe의 여덟 단계로 만들어요. 단계마다 폴더 하나 — 끝낸 단
 | 5단계 · 뼈대 먼저 이어 보기 | [05-skeleton](05-skeleton/skeleton.md) | 끝냄 |
 | 6단계 · 하나씩 만들고 확인하기 | [06-build](06-build/build.md) | 끝냄 |
 | 7단계 · 실제로 써 보고 재 보기 | [07-measure](07-measure/measure.md) | 끝냄 |
-| 8단계 · 돌아보고 배운 것 남기기 | [08-retro](08-retro/README.md) | 아직 |
+| 8단계 · 돌아보고 배운 것 남기기 | [08-retro](08-retro/retro.md) | 끝냄 |
 <!-- floe:end -->
